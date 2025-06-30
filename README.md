@@ -27,10 +27,10 @@ Para listar os animais, o programa usa uma estrutura de repetição (`for`) que 
 ## Como Compilar e Executar
 
 1.  Certifique-se de ter um compilador C (como o GCC) instalado.
-2.  Salve o código em um arquivo chamado `cadastro.c`.
+2.  Salve o código em um arquivo chamado `main.c`.
 3.  Abra o terminal e compile o programa com o seguinte comando:
     ```sh
-    gcc cadastro.c -o programa
+    gcc main.c -o programa
     ```
 4.  Execute o programa:
     ```sh
